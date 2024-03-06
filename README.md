@@ -1,9 +1,9 @@
 # LAMPSTACK-Project-COP4331C
-## Description
+## My Description
 ---
 In our team project, I presented a personal contact manager that we developed using a LAMP stack, placing a strong emphasis on professionalism and adherence to current standards. The presentation required the submission of a PowerPoint covering project details, team roles, technology used, and aspects that went well or faced challenges. Our application, hosted on a remote server, featured a clean and professional user interface for managing personal contacts, including user authentication, registration, and contact manipulation. The rubric encompassed various criteria, including the submission of slides, team participation, use case diagram, Gantt chart, API demonstration, effective search functionality, adherence to standards, ERD, and an explanation of technology choices. Overall, the presentation provided a comprehensive overview of the project, incorporating demonstrations, visuals, and insights into the development process, with a designated time for audience questions.
 
-##  Project Instructions
+##  Official Project Instructions
 ---
 You will demo on the lectern computer and not your laptop.
 
